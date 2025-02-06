@@ -1,0 +1,16 @@
+.l-topbar {
+  display: flex;
+  width: 100%;
+  height: 120px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  background: var(--dark-blue, #005564);
+  padding: 0px 52px 0px 53px;
+  margin-bottom: 60px;
+}
+
+.l-footer {
+  background: var(--light-blue, #c0d9d9);
+  height: 325px;
+}
